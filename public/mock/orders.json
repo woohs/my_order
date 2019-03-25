@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "shop": "有间客栈",
+    "picture": "https://s2.ax1x.com/2019/03/25/AtqivQ.png",
+    "product": "香喷喷鸡翅",
+    "price": 19.9,
+    "ifCommented": false
+  },
+  {
+    "id": 2,
+    "shop": "有间客栈",
+    "picture": "https://s2.ax1x.com/2019/03/25/AtqivQ.png",
+    "product": "夫妻肺片",
+    "price": 29.9,
+    "ifCommented": false
+  },
+  {
+    "id": 3,
+    "shop": "麦当劳",
+    "picture": "https://s2.ax1x.com/2019/03/25/AtqivQ.png",
+    "product": "全家桶",
+    "price": 79.9,
+    "ifCommented": false
+  },
+  {
+    "id": 4,
+    "shop": "KFC",
+    "picture": "https://s2.ax1x.com/2019/03/25/AtqivQ.png",
+    "product": "嫩牛五方",
+    "price": 19.9,
+    "ifCommented": false
+  }
+]
